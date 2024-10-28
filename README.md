@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Fynn (@fyhu-de)
+- 👀 I’m interested in all things tech and development
+- 🌱 I’m currently learning advanced development techniques and honing my IT skills
+- 💻 Professionally, I’m an IT systems integrator, but I code in various languages as a passion
+- 📫 How to reach me: postfach@fyhu.de
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m 19, based in Germany, and constantly exploring new tech tools and tricks just for fun!
